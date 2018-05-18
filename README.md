@@ -1,5 +1,3 @@
-# Countdown
-Countdown timer in python
+# Python Countdown Timer
 
-What is it?
-This is a simple python timer that will display a countdown in the console.
+What is it? It is a simple python timer that will display a countdown in the console.
