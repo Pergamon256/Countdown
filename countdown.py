@@ -1,8 +1,5 @@
 import time
 
-
-
-
 print('Countdown started') #You can edit this to display whatever text you want, even include strings using {} and .format()
 def countdown(m,s):
 	i=m
